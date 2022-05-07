@@ -59,13 +59,7 @@
   
 
   
-  
-
-  
-  
-
-  
-      ,"page12": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://machinatoonist.github.io/models/robots.txt",
