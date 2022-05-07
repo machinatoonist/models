@@ -25,9 +25,31 @@
 
   
   
+      ,"page0": {
+          "title": "1. Single file",
+          "content": ".",
+          "url": "https://machinatoonist.github.io/models/1single.html",
+          "relUrl": "/1single.html",
+          "date": ""
+      }
+      
+  
 
   
       ,"page1": {
+          "title": "2. Multi-file",
+          "content": ".",
+          "url": "https://machinatoonist.github.io/models/2multi.html",
+          "relUrl": "/2multi.html",
+          "date": ""
+      }
+      
+  
+
+  
+
+  
+      ,"page3": {
           "title": "About Me",
           "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://machinatoonist.github.io/models/about/",
@@ -59,7 +81,7 @@
   
 
   
-      ,"page10": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://machinatoonist.github.io/models/robots.txt",
