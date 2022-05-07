@@ -101,7 +101,7 @@ plugins:
 paginate: 15
 paginate_path: /page:num/
 
-remote_theme: jekyll/stack-problems
+remote_theme: mmistakes/jekyll-theme-basically-basic@1.4.5
 
 titles_from_headings:
   enabled:     true
