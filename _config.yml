@@ -101,7 +101,7 @@ plugins:
 paginate: 15
 paginate_path: /page:num/
 
-remote_theme: agusmakmun/agusmakmun.github.io
+remote_theme: jekyll/stack-problems
 
 titles_from_headings:
   enabled:     true
